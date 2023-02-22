@@ -1,0 +1,248 @@
+header* {
+  margin: 0px;
+}
+header {
+  margin-right: auto;
+  background: #ffd900;
+  padding: 30px 0px;
+  position: relative;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  background-image: url('assets/denteDeLeao.jpg');
+  background-position: 100%;
+  background: #1b1b1b;
+  color: #ffffff;
+  padding: 30px;
+  background-repeat: no-repeat;
+}
+
+h3 {
+  color: rgb(255, 95, 95);
+  margin-bottom: 10px;
+  text-align: center;
+}
+i {
+  color: #4177e0;
+}
+
+#banner {
+  /*foto dente de leão*/
+  display: inline-block;
+  width: 100%;
+}
+
+.apresentacao {
+  margin-top: 20px;
+}
+.Rc {
+  margin-top: 0px;
+  margin-bottom: 30px;
+  color: #4177e0;
+  
+}
+.flor {
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+.button {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.buttonEnviar {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.foto {
+  margin-top: 10px;
+  width: max-content;
+  margin: auto;
+  display: block;
+  border-radius: 0% 40%;
+}
+/* margin-top: 30px;
+  border-radius: 0% 40%;
+  margin-bottom: 70px;
+  display: inline-block;
+  text-align: center;
+  border: 3px solid #ff0000;
+}*/
+
+.logoLateral {
+  margin-top: 10px;
+  margin-bottom: 30;
+  width: max-content;
+  margin: auto;
+  display: block;
+}
+.habilidades {
+  text-align: center;
+  
+}
+
+.ref {
+  color: #b5cde9;
+  size: 10px;
+  margin-bottom: 30;
+  text-align: center;
+}
+.logoHtml {
+  display: block;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: max-content;
+  /*
+  margin-top: 10px;
+  width: max-content;
+  margin: auto;
+  display: block;
+  zoom: 90%;*/
+}
+
+.logoCss {
+  margin-top: 10px;
+  width: max-content;
+  margin: auto;
+  display: block;
+  zoom: 110%;
+}
+
+.logoJavaScript {
+  margin-top: 10px;
+  width: max-content;
+  margin: auto;
+  display: block;
+  zoom: 180%;
+}
+
+.angular {
+  margin-top: 10px;
+  width: max-content;
+  margin: auto;
+  display: block;
+  zoom: 70%;
+}
+
+.mozilla img {
+  display: block;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 350px;
+  
+  
+}
+nav {
+  white-space: auto;
+  text-align: center;
+  color: #4177e0;
+}
+
+nav a {
+  color: #4177e0;
+  font-size: 30px;
+  margin-inline: center;
+  text-decoration: none;
+  font-weight: bold;
+}
+nav li {
+  
+  display: inline;
+  margin: 0 0 0 20px;
+  margin: center;
+}
+
+.center {
+  font-size: 40px;
+  text-align: center;
+  color: #4caf50;
+}
+.titulo {
+  text-align: center;
+  font-size: 36px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: #4177e0;
+}
+.texto {
+  text-align: left;
+
+  margin-bottom: 30px;
+  line-height: 1em;
+}
+.apoio {
+  text-align: center;
+  margin-top: 200px;
+}
+.p {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.bradesco {
+  display: block;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 150px;
+  zoom: 250%;
+  
+}
+.specialisterneLogo {
+  margin-top: 50px;
+  margin-bottom: 30px;
+  width: max-content;
+  margin: auto;
+  display: block;
+}
+.whats {
+  margin-top: 50%;
+  width: max-content;
+  margin: auto;
+  display: block;
+  zoom: 100%;
+}
+.dev {
+  text-align: center;
+  width: 20%;
+  margin: auto;
+  display: block;
+}
+.desenvolvido {
+  text-align: center;
+}
+.caixa {
+  box-sizing: 100px;
+}
+label {
+  display: block;
+  font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+  margin: 0.4rem 0;
+}

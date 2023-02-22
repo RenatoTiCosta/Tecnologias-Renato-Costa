@@ -1,0 +1,23 @@
+header* {
+  margin: 0px;
+}
+img {
+  margin-top: 10px;
+  margin-bottom: 30;
+  width: max-content;
+  margin: auto;
+  display: block;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+  color: crimson;
+  text-align: center;
+}
+p {
+  font-size: medium;
+  font-family: 'Roboto', Times, serif;
+}
+body {
+  color: #1b1a1a;
+}
